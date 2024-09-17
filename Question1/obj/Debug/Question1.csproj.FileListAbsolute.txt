@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Question1\Question1\bin\Debug\Question1.exe.config
+C:\Users\User\source\repos\Question1\Question1\bin\Debug\Question1.exe
+C:\Users\User\source\repos\Question1\Question1\bin\Debug\Question1.pdb
+C:\Users\User\source\repos\Question1\Question1\obj\Debug\Question1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Question1\Question1\obj\Debug\Question1.StQuestion.resources
+C:\Users\User\source\repos\Question1\Question1\obj\Debug\Question1.Properties.Resources.resources
+C:\Users\User\source\repos\Question1\Question1\obj\Debug\Question1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Question1\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Question1\Question1\obj\Debug\Question1.exe
+C:\Users\User\source\repos\Question1\Question1\obj\Debug\Question1.pdb
